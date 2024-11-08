@@ -36,7 +36,7 @@ class L2022211802_19_Test {
         int[][] board = { { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 } };
         Solution sol = new Solution();
         sol.gameOfLife(board);
-        assertArrayEquals(new int[][] { { 0, 0, 1 }, { 0, 0, 0 }, { 0, 0, 0 } }, board);
+        assertArrayEquals(new int[][] { { 1, 1, 1 }, { 1, 1, 1 }, { 1, 1, 1 } }, board);
     }
 
     @Test
