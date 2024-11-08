@@ -9,7 +9,7 @@ jobs:
      - name: Set up JDK 17
        uses: actions/setup-java@v1
        with:
-         java-version: 17//此处的JDK版本要同maven pom.xml文件中一致
+         java-version: 17
      - name: Cache Maven packages
        uses: actions/cache@v2
        with:
