@@ -32,9 +32,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -119,6 +119,7 @@
       <workItem from="1731074759187" duration="294000" />
       <workItem from="1731075287239" duration="1105000" />
       <workItem from="1731120811490" duration="264000" />
+      <workItem from="1731121230137" duration="751000" />
     </task>
     <servers />
   </component>
